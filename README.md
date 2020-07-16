@@ -1,8 +1,3 @@
-<br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
-<br />
-
-![](./eat.gif)
+<img align="center" height="450px" width="450px" alt="GIF" src="https://media3.giphy.com/media/U1yqwLgL8ZQKFu6tMn/giphy.gif" />
 
 吃瓜都吃到我这里来啦！
