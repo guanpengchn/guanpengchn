@@ -2,4 +2,4 @@
 |---|---|---|
 |<img src="https://media3.giphy.com/media/U1yqwLgL8ZQKFu6tMn/giphy.gif" />|<img src="https://s1.ax1x.com/2020/07/16/UBO8Vx.png" />|<img src="https://s1.ax1x.com/2020/07/16/UBOtPO.png" />|
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guanpengchn)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=guanpengchn)](https://github.com/anuraghazra/github-readme-stats)
